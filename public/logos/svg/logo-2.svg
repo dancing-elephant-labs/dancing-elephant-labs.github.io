@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">DEL abstract monogram logo</title>
+  <desc id="desc">A geometric DEL symbol with a hidden trunk line.</desc>
+  
+  
+    <rect width="512" height="512" rx="72" fill="#F8FAFC" />
+    <path d="M124 140 H242 C308 140 350 188 350 256 C350 324 308 372 242 372 H124 Z" fill="none" stroke="#1D4ED8" stroke-width="22" stroke-linejoin="round" />
+    <path d="M188 196 H258" stroke="#4F46E5" stroke-width="16" stroke-linecap="round" />
+    <path d="M188 256 H248" stroke="#4F46E5" stroke-width="16" stroke-linecap="round" />
+    <path d="M188 316 H258" stroke="#4F46E5" stroke-width="16" stroke-linecap="round" />
+    <path d="M350 140 V316 H402" fill="none" stroke="#0EA5E9" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M292 182 C352 194 392 242 392 292 C392 328 366 354 334 354 C306 354 286 336 286 314 C286 292 304 278 322 278 C342 278 352 292 350 310" fill="none" stroke="#0F172A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="332" cy="236" r="7" fill="#0F172A" />
+    
+</svg>
