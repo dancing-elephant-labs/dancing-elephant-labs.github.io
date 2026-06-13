@@ -39,7 +39,7 @@ export default function CTA() {
               >
                 <span>Contact the lab</span>
                 <img
-                  src="/dancing-elephant.png"
+                  src="/logo.png"
                   alt=""
                   aria-hidden="true"
                   className="h-12 w-12 rounded-lg object-cover"

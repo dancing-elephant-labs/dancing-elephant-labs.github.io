@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">DEL abstract monogram logo for light theme</title>
-  <desc id="desc">A high-contrast DEL monogram for light backgrounds with a mirrored trunk shape standing in for the L.</desc>
-  
-  
-    <path d="M142 118 H228 C306 118 366 144 398 194 C416 222 426 254 426 272 C426 340 394 388 336 414 C306 428 268 428 228 428 H142 V118" fill="none" stroke="#1E3A8A" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M190 184 H258" stroke="#4338CA" stroke-width="18" stroke-linecap="round" />
-    <path d="M190 248 H246" stroke="#4338CA" stroke-width="18" stroke-linecap="round" />
-    <path d="M190 312 H258" stroke="#4338CA" stroke-width="18" stroke-linecap="round" />
-    <path d="M318 188 C294 214 284 250 290 286 C294 314 286 338 268 356 C250 374 226 384 200 384" fill="none" stroke="#0369A1" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
-    <circle cx="322" cy="222" r="8" fill="#020617" />
-    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+  <path d="M 677.13 511.78 L 690.66 478.13 L 697.63 452.22 L 697.63 347.78 L 690.66 321.87 L 677.13 287.83 L 650.44 243.35 L 628.01 216.67 L 589.72 183.02 L 551.81 158.65 L 500.76 136.99 L 454.34 125.39 L 102.37 125.00 L 102.37 340.44 L 243.16 340.44 L 244.32 256.12 L 421.85 257.28 L 451.25 263.85 L 473.68 273.14 L 481.80 277.39 L 503.08 292.09 L 532.09 323.03 L 546.40 349.72 L 553.74 374.47 L 555.29 385.69 L 553.74 425.53 L 546.40 450.28 L 532.09 476.97 L 514.29 497.86 L 503.08 507.91 L 481.80 522.61 L 451.25 536.15 L 421.85 542.72 L 244.32 543.88 L 243.16 459.56 L 102.37 459.56 L 102.37 675.00 L 454.34 674.61 L 500.76 663.01 L 518.93 656.43 L 551.81 641.35 L 589.72 616.98 L 628.01 583.33 L 650.44 556.65 L 658.56 545.04 L 677.13 512.17 Z M 317.81 332.70 L 416.05 333.09 L 425.72 335.41 L 446.99 345.08 L 466.33 364.03 L 476.00 386.85 L 476.00 413.15 L 466.33 435.97 L 446.99 454.92 L 416.05 466.91 L 308.14 466.91 L 308.14 333.09 L 317.42 332.70 Z" fill="#172554" fill-rule="evenodd" />
 </svg>
